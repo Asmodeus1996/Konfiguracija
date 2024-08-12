@@ -1,0 +1,2 @@
+# Konfiguracija
+Sklapanje konfiguracije racunara
